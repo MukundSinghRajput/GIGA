@@ -3,7 +3,7 @@ module github.com/gigauserbot/giga
 // +heroku goVersion go1.18
 go 1.21
 
-toolchain go1.22.2
+// toolchain go1.22.2
 
 require (
 	github.com/PaulSonOfLars/gotgbot/v2 v2.0.0-rc.11
